@@ -1,0 +1,22 @@
+
+table ,tr ,th ,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table, h3, p{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h3, p{
+    color: blue;
+}
+
+th{
+    background-color: darkgoldenrod;
+}
+
+.yellow{
+    background-color: yellow;
+}
